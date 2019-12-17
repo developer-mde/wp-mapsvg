@@ -1,9 +1,16 @@
 {
-"name": "mde/wp-mapsvg",
-"description": "WP Map Svg",
-"type": "wordpress-plugin",
-"license": "proprietary",
-"require": {
-"php": ">=5.6"
+  "name": "developer-mde/wp-mapsvg",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/developer-mde/wp-mapsvg",
+  "authors": [
+    {
+      "name": "RomanCode",
+      "homepage": "https://codecanyon.net/item/mapsvg-responsive-vector-maps-floorplans-with-directory-search-filters/2547255"
     }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
 }
